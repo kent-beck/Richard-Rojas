@@ -1,0 +1,4 @@
+server:
+    name: Mower Service
+    port: 8080
+
